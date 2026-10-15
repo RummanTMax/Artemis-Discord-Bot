@@ -1,0 +1,1 @@
+# The actual code have been removed due to people selling and misusing it. If anybody is interested in having a private version of the code, may join the Nerd Café discord server and open a [support ticket](https://discord.com/channels/1190721924448387214/1205503452508323840/1530887815603159051)
