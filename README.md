@@ -164,7 +164,6 @@ This project is private to the Nerd Café team. All rights reserved.
 ---
 
 This readme was partially written with AI (you will know which parts are AI).
-As for the use of AI in the actually project, it was kept to a minimal as this was a passion and learning project for me.
 
 Some features are kept secret or entirely not mentioned cuz they are really unique systems that i have yet to see in any other bots
 
